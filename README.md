@@ -94,13 +94,14 @@ I enjoy improving **produc quality** through structured testing, clean workflows
 
 ---
 
-## Let's Connect!
+## Let's Connect guys!
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abiturije1alicade@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alicade-abiturije-9868693b4)
 
 ---
 
-## Fun Fact
+## Fun Fact 
 
-*"I enjoy Testing APIs and UIs in testing Envirnoment — so they never break in production."*
+Beside that programming is fun😊
+*"I really enjoy Testing APIs and UIs in testing Envirnoment — so they never break in production."*
