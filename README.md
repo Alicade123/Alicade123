@@ -68,7 +68,7 @@ I enjoy improving **produc quality** through structured testing, clean workflows
 
 ---
 
-## GitHub Stats
+## My GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alicade123\&show_icons=true\&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Alicade123\&theme=tokyonight)
