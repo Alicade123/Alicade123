@@ -84,7 +84,7 @@ I enjoy improving **produc quality** through structured testing, clean workflows
 
 ---
 
-## Current Focus
+## My Current Focus
 
 * Improving API automation frameworks
 * Writing maintainable test scripts
@@ -93,7 +93,7 @@ I enjoy improving **produc quality** through structured testing, clean workflows
 
 ---
 
-## Let's Connect guys!
+## Let's Connect guys! and keep in touch
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abiturije1alicade@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alicade-abiturije-9868693b4)
