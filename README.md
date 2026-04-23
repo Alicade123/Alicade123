@@ -3,7 +3,7 @@
 💻 Software Developer | QA Engineer | API Testing Specialist | Cloud Enthusiast
 
 I specialize in building and testing reliable backend systems and UI, with experience in **API testing, automation and UI Testing**.
-I enjoy improving **produc quality** through structured testing, clean workflows, and scalable solutions.
+I enjoy improving **products quality** through structured testing, clean workflows, and scalable solutions.
 
 ---
 
