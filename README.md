@@ -84,7 +84,7 @@ I enjoy improving **products quality** through structured testing, clean workflo
 
 ---
 
-## My Current Focus
+## Current Focus
 
 * Improving API automation frameworks
 * Writing maintainable test scripts
@@ -102,5 +102,5 @@ I enjoy improving **products quality** through structured testing, clean workflo
 
 ## Fun Fact 
 
-Beside that programming is fun😊
+Beside that programming is fun😊💪🏿🏹
 *"I really enjoy Testing APIs and UIs in testing Envirnoment — so they never break in production."*
