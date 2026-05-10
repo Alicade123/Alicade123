@@ -1,6 +1,6 @@
 # Hi, I'm Alicade 👋
 
-**Software Developer · QA Engineer · API Testing Specialist**
+**Software Developer · QA Engineer & · API Testing Specialist**
 
 I build and test reliable backend and UI systems, with a strong focus on API quality, automation, and clean release workflows. I enjoy turning complex product requirements into dependable, well-tested software.
 
