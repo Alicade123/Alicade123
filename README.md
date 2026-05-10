@@ -6,7 +6,7 @@ I build and test reliable backend and UI systems, with a strong focus on API qua
 
 ---
 
-## What I Do
+## What I Do Currently
 
 - Design and execute API, UI, regression, and integration tests as well
 - Build maintainable automation scripts and test workflows
