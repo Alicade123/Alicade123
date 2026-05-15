@@ -55,10 +55,10 @@ I build and test reliable backend and UI systems, with a strong focus on API qua
 
 ## Current Focus
 
-- Advancing API test automation and framework design
-- Strengthening CI/CD, DevOps, and cloud engineering skills
-- Writing clearer test cases, cleaner scripts, and more reliable checks
-- Building confidence in releases through practical quality engineering
+- Advancing API test automation and framework design.
+- Strengthening CI/CD, DevOps, and cloud engineering skills.
+- Writing clearer test cases, cleaner scripts, and more reliable checks.
+- Building confidence in releases through practical quality engineering.
 
 ---
 
