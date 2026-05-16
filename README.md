@@ -8,11 +8,11 @@ I build and test reliable backend and UI systems, with a strong focus on API qua
 
 ## What I Do Currently
 
-- Design and execute API, UI, regression, and integration tests as well
-- Build maintainable automation scripts and test workflows
-- Validate REST/SOAP APIs, JSON/XML payloads, and backend behavior
-- Improve product reliability through structured QA practices
-- Learn and apply cloud, DevOps, and CI/CD fundamentals
+- Design and execute API, UI, regression, and integration tests as well.
+- Build maintainable automation scripts and test workflows.
+- Validate REST/SOAP APIs, JSON/XML payloads, and backend behavior.
+- Improve product reliability through structured QA practices.
+- Learn and apply cloud, DevOps, and CI/CD fundamentals.
 
 ---
 
