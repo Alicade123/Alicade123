@@ -1,4 +1,4 @@
-# Hi! there, I'm Alicade 👋
+# Hi there!, I'm Alicade 👋
 
 **Software Developer · QA Engineer & · API Testing Specialist**
 
