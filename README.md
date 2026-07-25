@@ -1,10 +1,9 @@
-# Hi!, I'm Alicade 👋
+# Hi, I'm Alicade. 
 
-**Software Developer · QA Engineer & · API Testing Specialist**
+**Software Developer · QA Engineer & · API Testing Specialist/Software Tester Engineer**
 
 I build and test reliable backend and UI systems, with a strong focus on API quality, automation, and clean release workflows. I enjoy turning complex product requirements into dependable, well-tested software.
 
----
 
 ## What I Do Currently
 
@@ -14,7 +13,6 @@ I build and test reliable backend and UI systems, with a strong focus on API qua
 - Improve product reliability through structured QA practices.
 - Learn and apply cloud, DevOps, and CI/CD fundamentals.
 
----
 
 ## Tech Stack
 
@@ -51,7 +49,6 @@ I build and test reliable backend and UI systems, with a strong focus on API qua
 ![Bruno](https://img.shields.io/badge/Bruno-6B46C1?style=flat-square)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
----
 
 ## Current Focus
 
@@ -60,14 +57,12 @@ I build and test reliable backend and UI systems, with a strong focus on API qua
 - Writing clearer test cases, cleaner scripts, and more reliable checks.
 - Building confidence in releases through practical quality engineering.
 
----
 
 ## GitHub Snapshot
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alicade123&show_icons=true&theme=tokyonight&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Alicade123&theme=tokyonight&hide_border=true)
 
----
 
 ## Let's Connect
 
